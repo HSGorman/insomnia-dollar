@@ -1,3 +1,5 @@
+# Fork to allow $ to be used in the Url without encoding it
+
 # Insomnia REST Client
 
 [![Slack Channel](https://chat.insomnia.rest/badge.svg)](https://chat.insomnia.rest/)
@@ -56,7 +58,7 @@ npm test
 npm run app-start
 ```
 
-If you are on Linux, you may need to install the following supporting packages 
+If you are on Linux, you may need to install the following supporting packages
 
 ```bash
 # Update library
